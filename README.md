@@ -3,6 +3,6 @@ You can find 450+ OSINT Tools, VMs, Books, Blogs, YouTube channels, and Training
 
 Link - https://start.me/p/9Ekwkl/all-about-osint
 
-You find OSINT Resources in INDIA 
+You can find OSINT Resources in INDIA 
 
 Link - https://start.me/p/vjR5wL/osint-resources-in-india
